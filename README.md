@@ -1,4 +1,4 @@
-# The Official raywenderlich.com Swift Style Guide.
+# The Official Qlicks Swift Style Guide.
 
 This style guide is different from others you may see, because the focus is centered on readability for print and the web. We created this style guide to keep the code in our books, tutorials, and starter kits nice and consistent — even though we have many different authors working on the books.
 
@@ -354,12 +354,8 @@ class Circle: Shape {
   var x: Int, y: Int
   var radius: Double
   var diameter: Double {
-    get {
-      return radius * 2
-    }
-    set {
-      radius = newValue / 2
-    }
+    get { return radius * 2 }
+    set { radius = newValue / 2 }
   }
 
   init(x: Int, y: Int, radius: Double) {
@@ -429,9 +425,7 @@ var diameter: Double {
 **Not Preferred:**
 ```swift
 var diameter: Double {
-  get {
-    return radius * 2
-  }
+  get { return radius * 2 }
 }
 ```
 
