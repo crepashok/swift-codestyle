@@ -4,7 +4,7 @@ This style guide is different from others you may see, because the focus is cent
 
 Our overarching goals are conciseness, readability, and simplicity.
 
-Writing Objective-C? Check out our [Objective-C Style Guide](https://github.com/raywenderlich/objective-c-style-guide) too.
+Writing Objective-C? Check out our [Objective-C Style Guide](https://github.com/qlicks-team/objective-c-codestyle) too.
 
 ## Table of Contents
 
