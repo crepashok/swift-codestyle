@@ -146,7 +146,7 @@ When referring to functions in prose (tutorials, books, comments) include the re
 
 This is the same as the `#selector` syntax. When in doubt, look at how Xcode lists the method in the jump bar – our style here matches that.
 
-![Methods in Xcode jump bar](screens/xcode-jump-bar.png)
+![Methods in Xcode jump bar](swift-codestyle/xcode-jump-bar.png)
 
 
 ### Class Prefixes
